@@ -64,3 +64,20 @@ Ce projet est volontairement simple : son objectif principal est de servir de te
 ```
 
 >Ce projet n’est pas fait pour être “parfait”, mais pour être **manipulé**.
+
+>Mise a jour majeure
+- github_basic
+
+## 🎯 Objectif
+Mise à jour de la structure interne du projet
+## 🗂️ Structure
+- `src/` — Code source
+- `docs/` — Documentation
+- `.github/` — Workflows CI/CD
+- `history/` — Changelog + Roadmap
+- `scripts/` — Scripts Node utilitaires
+
+## 🔧 Principes
+- Simplicité
+- Lisibilité
+- Évolutivité
