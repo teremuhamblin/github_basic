@@ -1,4 +1,10 @@
-#!/usr/bin/env python3
+###### python.md >> markdown 
+# 📘 Template recommandé 
+- PYTHON
+>Pour créer un nouveau script Python :
+```md
+```python
+!/usr/bin/env python3
 
 # ==========================================
 # Script : xxxxx
@@ -23,3 +29,4 @@ if __name__ == "__main__":
     except Exception as e:
         print(f"Erreur : {e}")
         sys.exit(1)
+```
