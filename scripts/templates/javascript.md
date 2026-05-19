@@ -3,7 +3,6 @@
 - JAVASCRIPT
 >Pour créer un nouveau script Javascript :
 ```md
-```javascript
 !/usr/bin/env node
 
 // ==========================================
