@@ -1,4 +1,10 @@
-#!/usr/bin/env node
+###### javascript.md >> markdown 
+# 📘 Template recommandé 
+- JAVASCRIPT
+>Pour créer un nouveau script Javascript :
+```md
+```javascript
+!/usr/bin/env node
 
 // ==========================================
 // Script : xxxxx
@@ -21,3 +27,4 @@ try {
   console.error("Erreur :", error.message);
   process.exit(1);
 }
+```
