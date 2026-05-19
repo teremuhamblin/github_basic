@@ -1,0 +1,126 @@
+---
+
+# 🏁 Milestone — v0.3.0 — Qualité & Tests
+`md
+
+🎯 Milestone — v0.3.0
+
+Objectif : Améliorer la qualité du code, ajouter des tests unitaires et renforcer l’intégration continue.  
+Statut : ✔️ Terminé  
+Version : v0.3.0
+
+🧩 Checklist
+
+- [x] Ajouter un linter Python (ruff)
+- [x] Ajouter un formateur automatique (black)
+- [x] Créer le dossier tests/ avec premiers tests unitaires
+- [x] Ajouter un workflow CI complet (lint + format + tests)
+- [x] Mettre à jour le README principal avec badges CI
+- [x] Ajouter un fichier CONTRIBUTING.md
+- [x] Ajouter un fichier CODEOFCONDUCT.md
+- [x] Mettre à jour le CHANGELOG.md
+- [x] Créer le tag v0.3.0
+`
+
+---
+
+# 📝 Issue — Qualité du Code & Tests (v0.3.0)
+`md
+
+📝 Issue — Qualité du Code & Tests (v0.3.0)
+
+Milestone : v0.3.0  
+Labels : enhancement, quality, tests, v0.3.0
+
+📌 Description
+
+Cette issue couvre l’amélioration de la qualité du code, l’ajout d’outils de vérification automatique et la mise en place d’un système de tests unitaires intégré à GitHub Actions.
+
+✔️ Checklist
+
+- [x] Installer et configurer ruff pour le lint
+- [x] Installer et configurer black pour le formatage
+- [x] Créer le dossier tests/
+- [x] Ajouter un premier test unitaire (test_app.py)
+- [x] Mettre à jour le workflow GitHub Action :
+  - [x] Lint
+  - [x] Format
+  - [x] Tests
+- [x] Ajouter CONTRIBUTING.md
+- [x] Ajouter CODEOFCONDUCT.md
+- [x] Mettre à jour le README.md avec badges CI
+- [x] Mettre à jour le CHANGELOG.md
+- [x] Tag v0.3.0
+`
+
+---
+
+# 🚀 Release — v0.3.0 — Qualité & Tests
+`md
+
+🚀 Release — v0.3.0 — Qualité & Tests
+
+Tag : v0.3.0  
+Milestone liée : v0.3.0  
+Statut : ✔️ Terminé
+
+---
+
+📦 Contenu
+
+La version v0.3.0 introduit la qualité logicielle dans le projet github_basic :  
+lint, formatage automatique, tests unitaires et workflow CI complet.
+
+🧱 Nouveautés
+
+- ✔️ Ajout du linter ruff
+- ✔️ Ajout du formateur black
+- ✔️ Ajout du dossier tests/ + premier test
+- ✔️ Workflow CI complet (lint + format + tests)
+- ✔️ Ajout de CONTRIBUTING.md
+- ✔️ Ajout de CODEOFCONDUCT.md
+- ✔️ Mise à jour du README.md avec badges CI
+- ✔️ Mise à jour du CHANGELOG.md
+- ✔️ Tag v0.3.0
+
+---
+
+📁 Arborescence livrée
+
+```text
+github_basic/
+├─ src/
+│  ├─ app.py
+│  └─ examples/
+│     └─ demo.py
+├─ tests/
+│  ├─ test_app.py
+│  └─ README.md
+├─ docs/
+│  ├─ git_notes.md
+│  ├─ git_advanced.md
+│  └─ usage.md
+├─ .github/
+│  └─ workflows/
+│     └─ ci.yml
+├─ CONTRIBUTING.md
+├─ CODEOFCONDUCT.md
+├─ .gitignore
+├─ LICENSE
+└─ CHANGELOG.md
+```
+
+---
+
+🧩 Changelog
+
+v0.3.0 — 2026-05-19
+- Ajout du linter ruff  
+- Ajout du formateur black  
+- Ajout des tests unitaires  
+- Ajout du workflow CI complet  
+- Ajout de CONTRIBUTING.md et CODEOFCONDUCT.md  
+- Mise à jour du README.md  
+`
+
+---
