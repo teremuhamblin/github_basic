@@ -1,4 +1,4 @@
-discussion_templates:
+discussion_template:
   - name: "💬 Discussion générale"
     description: "Pour discuter d’un sujet, partager une réflexion ou demander un avis"
     labels: []
