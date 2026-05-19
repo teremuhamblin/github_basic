@@ -1,0 +1,6 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: 📬 Support général
+    url: https://github.com/Teremu/github_basic/discussions
+    about: Pose une question ou discute d’un sujet ici.
