@@ -1,0 +1,118 @@
+Version v0.2.0 de ton projet github_basic, dans le même style professionnel que la v0.1.0, entièrement en Markdown (.md), avec milestone, issue et release complètes, propres et prêtes à coller dans GitHub.
+
+Cette version v0.2.0 correspond à la première évolution fonctionnelle du projet : ajout de documentation, amélioration du code, et mise en place d’un workflow GitHub simple.
+
+---
+
+# 🏁 Milestone — v0.2.0 — Documentation & Améliorations
+`md
+
+🎯 Milestone — v0.2.0
+
+Objectif : Ajouter de la documentation, améliorer le code source et introduire un workflow GitHub simple.  
+Statut : ✔️ Terminé  
+Version : v0.2.0
+
+🧩 Checklist
+
+- [x] Ajouter documentation Git avancée dans docs/
+- [x] Ajouter un guide d’utilisation du projet
+- [x] Améliorer le code Python dans src/app.py
+- [x] Ajouter un script d’exemple dans src/examples/
+- [x] Mettre à jour le README.md avec sections avancées
+- [x] Ajouter un workflow GitHub Action simple (lint + test)
+- [x] Mettre à jour le CHANGELOG.md
+- [x] Créer le tag v0.2.0
+`
+
+---
+
+# 📝 Issue — Améliorations & Documentation (v0.2.0)
+`md
+
+📝 Issue — Améliorations & Documentation (v0.2.0)
+
+Milestone : v0.2.0  
+Labels : enhancement, documentation, v0.2.0
+
+📌 Description
+
+Cette issue couvre l’évolution du projet vers la version v0.2.0, incluant l’amélioration du code, l’ajout de documentation pédagogique et la mise en place d’un premier workflow GitHub Action.
+
+✔️ Checklist
+
+- [x] Ajouter un guide Git dans docs/git_advanced.md
+- [x] Ajouter un guide d’utilisation du projet (docs/usage.md)
+- [x] Améliorer src/app.py (structure + commentaires)
+- [x] Ajouter un script d’exemple dans src/examples/demo.py
+- [x] Mettre à jour le README.md avec sections avancées
+- [x] Ajouter un workflow GitHub Action (.github/workflows/basic.yml)
+- [x] Mettre à jour le CHANGELOG.md
+- [x] Créer le tag v0.2.0
+`
+
+---
+
+# 🚀 Release — v0.2.0 — Documentation & Améliorations
+`md
+
+🚀 Release — v0.2.0 — Documentation & Améliorations
+
+Tag : v0.2.0  
+Milestone liée : v0.2.0  
+Statut : ✔️ Terminé
+
+---
+
+📦 Contenu
+
+La version v0.2.0 enrichit le projet github_basic avec de la documentation avancée, un code amélioré et un premier workflow GitHub Action.
+
+🧱 Nouveautés
+
+- ✔️ Documentation Git avancée (docs/git_advanced.md)
+- ✔️ Guide d’utilisation du projet (docs/usage.md)
+- ✔️ Amélioration du code Python (src/app.py)
+- ✔️ Ajout d’un script d’exemple (src/examples/demo.py)
+- ✔️ Mise à jour du README.md avec sections avancées
+- ✔️ Ajout d’un workflow GitHub Action simple (basic.yml)
+- ✔️ Mise à jour du CHANGELOG.md
+- ✔️ Tag v0.2.0
+
+---
+
+📁 Arborescence livrée
+
+```
+github_basic/
+├─ src/
+│  ├─ app.py
+│  └─ examples/
+│     └─ demo.py
+├─ docs/
+│  ├─ git_notes.md
+│  ├─ git_advanced.md
+│  └─ usage.md
+├─ .github/
+│  └─ workflows/
+│     └─ basic.yml
+├─ .gitignore
+├─ LICENSE
+└─ CHANGELOG.md
+```
+
+---
+
+🧩 Changelog
+
+v0.2.0 — 2026-05-19
+- Ajout de documentation avancée  
+- Amélioration du code source  
+- Ajout d’un script d’exemple  
+- Ajout d’un workflow GitHub Action  
+- Mise à jour du README.md  
+`
+
+---
+
+Prochaine étape, créer la v0.3.0, ou bien générer tous les fichiers correspondants (workflow, docs, scripts, etc.) pour que tu puisses les coller directement dans ton projet.
