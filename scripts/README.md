@@ -17,24 +17,29 @@ Ce dossier contient l’ensemble des scripts utilitaires utilisés pour automati
 ### 🧩 Contenu du dossier
 >Selon l’évolution du projet, ce dossier peut contenir :
 ```md
+- Script JavaScript (.js) : script principal du projet
+
 - Scripts Bash (.sh)  
   Automatisation simple : installation, nettoyage, génération de fichiers, etc.
 
 - Scripts Python (.py)  
   Exemples pédagogiques, outils internes, mini‑automatisations.
 
-- Templates de scripts  
+- Templates de scripts 
   Modèles prêts à l’emploi pour créer de nouveaux scripts cohérents.
 ```
 
 >Exemple de structure :
 ```text
 scripts/
-├─ setup.sh          → Script d’initialisation
-├─ clean.sh          → Nettoyage du projet
-├─ generate_demo.py  → Script Python d’exemple
-└─ templates/
-   └─ script_template.sh
+├─ README.md
+├─ .gitkeep 
+├─ bash .sh
+└─ python .py
+├─ generate-overview.js    
+├─ validate-structure.js
+└─ build-docs.js
+└─ check-docs.js
 ```
 
 ---
@@ -44,6 +49,12 @@ scripts/
 ```bash
 chmod +x scripts/mon_script.sh
 ./scripts/mon_script.sh
+```
+
+>Exécuter un script JavaScript
+```js
+chmod +x scripts/mon_script.js
+./scripts/mon_script.js
 ```
 
 >Exécuter un script Python
