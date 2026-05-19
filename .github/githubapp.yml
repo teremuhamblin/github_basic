@@ -1,0 +1,17 @@
+# Configuration de GithubApp
+
+autoLabel:
+  enabled: true
+  rulesFile: "pattern/auto_label.json"
+
+autoReply:
+  enabled: true
+  template: "pattern/auto_reply.md"
+
+autoClose:
+  enabled: true
+  daysBeforeClose: 30
+  template: "pattern/auto_close.md"
+
+logs:
+  enabled: true
