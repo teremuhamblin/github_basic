@@ -1,0 +1,110 @@
+Voici ton milestone, issue et release entièrement en Markdown (.md), parfaitement formatés pour GitHub, avec cases cochées et structure professionnelle.
+
+---
+
+# 🏁 Milestone — v0.1.0 — Initialisation du projet
+`md
+
+🎯 Milestone — v0.1.0
+
+Objectif : Mise en place complète de la base du projet github_basic  
+Statut : ✔️ Terminé  
+Version : v0.1.0
+
+🧩 Checklist
+
+- [x] Création de la structure du projet (src/, docs/, .gitignore, LICENSE, CHANGELOG.md)
+- [x] Ajout du fichier .gitignore
+- [x] Ajout de la licence MIT
+- [x] Création du fichier CHANGELOG.md
+- [x] Ajout du premier code minimal dans src/
+- [x] Ajout des premières notes dans docs/
+- [x] Commit initial
+- [x] Préparation du README.md initial
+- [x] Tag de la version v0.1.0
+`
+
+---
+
+# 📝 Issue — Initialisation du projet (v0.1.0)
+`md
+
+📝 Issue — Initialisation du projet (v0.1.0)
+
+Milestone : v0.1.0  
+Labels : enhancement, init, v0.1.0
+
+📌 Description
+
+Cette issue regroupe toutes les tâches nécessaires pour préparer la version v0.1.0 du projet github_basic.  
+Elle valide la structure, les fichiers essentiels et le premier contenu pédagogique.
+
+✔️ Checklist
+
+- [x] Créer la structure du projet  
+- [x] Ajouter .gitignore  
+- [x] Ajouter LICENSE (MIT)  
+- [x] Créer CHANGELOG.md  
+- [x] Ajouter un fichier Python minimal dans src/  
+- [x] Ajouter un fichier de notes dans docs/  
+- [x] Faire le commit initial  
+- [x] Préparer un README.md simple  
+- [x] Vérifier que le projet s’exécute correctement  
+- [x] Créer le tag v0.1.0
+`
+
+---
+
+# 🚀 Release — v0.1.0 — Initialisation du projet
+`md
+
+🚀 Release — v0.1.0 — Initialisation du projet
+
+Tag : v0.1.0  
+Milestone liée : v0.1.0  
+Statut : ✔️ Terminé
+
+---
+
+📦 Contenu
+
+La version v0.1.0 marque la création du projet github_basic, un support pédagogique pour apprendre Git et GitHub.
+
+🧱 Nouveautés
+
+- ✔️ Structure complète du projet  
+- ✔️ Ajout des fichiers essentiels (.gitignore, LICENSE, CHANGELOG.md)  
+- ✔️ Ajout du premier code dans src/  
+- ✔️ Ajout des premières notes dans docs/  
+- ✔️ README.md initial  
+- ✔️ Commit initial + tag v0.1.0  
+
+---
+
+📁 Arborescence livrée
+
+```text
+github_basic/
+├─ src/
+│  └─ app.py
+├─ docs/
+│  └─ git_notes.md
+├─ .gitignore
+├─ LICENSE
+└─ CHANGELOG.md
+```
+
+---
+
+🧩 Changelog
+
+v0.1.0 — 2026-05-19
+- Initialisation complète du projet  
+- Ajout des fichiers de base  
+- Mise en place du code minimal  
+- Documentation initiale  
+`
+
+---
+
+Prochaine étape, générer la v0.2.0, ou automatiser la génération des releases avec un workflow GitHub Action.
