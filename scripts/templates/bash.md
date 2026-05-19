@@ -2,16 +2,17 @@
 # 📘 Template recommandé 
 - BASH
 >Pour créer un nouveau script Bash :
+```md
 ```bash
 !/bin/bash
 
 ==========================================
 
-Script : NOMDUSCRIPT
+Script : xxxxx
 
 Description : Décrire la fonction du script
 
-Auteur : Teremu
+Auteur : xxxxx
 
 Projet : github_basic
 
