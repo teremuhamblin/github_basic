@@ -8,29 +8,28 @@ Le dossier **history/** regroupe l’ensemble des informations liées à l’év
 
 ---
 
-📜 Contenu recommandé
-
-🧩 CHANGELOG
+## 📜 Contenu recommandé
+### 🧩 CHANGELOG
 - Historique des versions
 - Fonctionnalités ajoutées
 - Corrections
 - Améliorations
 
-🗺️ ROADMAP
+### 🗺️ ROADMAP
 - Objectifs des futures versions
 - Fonctionnalités prévues
 - Vision long terme
 
 ---
 
-📦 Contenu actuel
+### 📦 Contenu actuel
 - CHANGELOG.md — Historique complet des versions v0.1.0 → v0.2.0
 - ROADMAP.md — Plan d’évolution jusqu’à v0.5.0
-
+- .gitkeep
+  
 ---
 
-🎯 Objectifs du dossier history/
-
+### 🎯 Objectifs du dossier history/
 - Suivre l’évolution du projet
 - Documenter les versions
 - Structurer les futures releases
@@ -38,16 +37,14 @@ Le dossier **history/** regroupe l’ensemble des informations liées à l’év
 
 ---
 
-🔮 Évolutions prévues
-
+### 🔮 Évolutions prévues
 - Ajout d’un tableau de bord Markdown (overview.md)
 - Ajout d’un historique des workflows
 - Ajout d’un historique des décisions techniques (ADR)
 
 ---
 
-🗂️ Structure recommandée
-
+### 🗂️ Structure recommandée
 ```text
 history/
 ├─ .gitkeep
@@ -55,6 +52,6 @@ history/
 └─ ROADMAP.md
 ```
 
-Ce dossier constitue la mémoire du projet.
+>Ce dossier constitue la mémoire du projet.
 
 ---
