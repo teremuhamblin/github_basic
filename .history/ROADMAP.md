@@ -3,8 +3,6 @@
 - Ce document décrit les étapes d’évolution prévues pour le projet pédagogique `github_basic`.
 >Évolution progressive du projet pédagogique Git/GitHub.
 
----
-
 ### 🟦 v0.1.0 — Initialisation du projet
 ### ✔️ Terminé
 - [x] Structure du projet (`src/`, `docs/`, `.gitignore`, `LICENSE`)
