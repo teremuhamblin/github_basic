@@ -27,6 +27,7 @@
 ---
 
 ### 🎯 Objectifs pédagogiques
+[![Full CI (Node + Python)](https://github.com/teremuhamblin/github_basic/actions/workflows/full.yml/badge.svg)](https://github.com/teremuhamblin/github_basic/actions/workflows/full.yml)
 ```md
 - Maîtriser les fondamentaux de Git  
   (commits, branches, merges, historique, gestion des états)  
