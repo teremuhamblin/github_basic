@@ -17,6 +17,7 @@
 
 # 📘 github_basic
 [![CI](https://github.com/teremuhamblin/github_basic/actions/workflows/ci.yml/badge.svg)](https://github.com/teremuhamblin/github_basic/actions/workflows/ci.yml)
+[![Basic CI](https://github.com/teremuhamblin/github_basic/actions/workflows/basic.yml/badge.svg)](https://github.com/teremuhamblin/github_basic/actions/workflows/basic.yml)
 > Projet d’apprentissage structuré pour maîtriser Git & GitHub avec une approche d’ingénierie système administrée.
 - Ce dépôt est conçu comme un playground professionnel, permettant d’apprendre Git et GitHub comme un ingénieur système, avec une structure claire, des workflows propres et une documentation soignée.
 
