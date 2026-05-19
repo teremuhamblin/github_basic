@@ -1,0 +1,6 @@
+discussion_templates:
+  - name: "💬 Discussion générale"
+    description: "Poser une question, demander de l’aide ou lancer un débat"
+    labels: []
+    title: ""
+    body: general.md
