@@ -16,7 +16,7 @@ git status
 
 ### 📌 3. Ajouter des fichiers au suivi
 ```git
-git add .
+git add
 ```
 
 ### 📌 4. Créer un commit
