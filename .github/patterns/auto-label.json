@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "keywords": ["bug", "error", "crash"],
+      "label": "bug"
+    },
+    {
+      "keywords": ["feature", "enhancement", "idea"],
+      "label": "enhancement"
+    },
+    {
+      "keywords": ["docs", "documentation"],
+      "label": "documentation"
+    }
+  ]
+}
