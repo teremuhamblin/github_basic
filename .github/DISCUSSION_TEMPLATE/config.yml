@@ -1,6 +1,18 @@
 discussion_templates:
   - name: "💬 Discussion générale"
-    description: "Poser une question, demander de l’aide ou lancer un débat"
+    description: "Pour discuter d’un sujet, partager une réflexion ou demander un avis"
     labels: []
     title: ""
     body: general.md
+
+  - name: "❓ Question / Aide"
+    description: "Pour poser une question ou demander de l’aide"
+    labels: ["question"]
+    title: ""
+    body: question.md
+
+  - name: "💡 Idée / Proposition"
+    description: "Pour proposer une amélioration ou une nouvelle fonctionnalité"
+    labels: ["enhancement"]
+    title: ""
+    body: idea.md
